@@ -1,4 +1,4 @@
-package org.example;
+package za.ac.cput;
 
 /**
  * Hello world!
